@@ -1,0 +1,135 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website about cat.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#section-1-cat",
+    "href": "index.html#section-1-cat",
+    "title": "simple_quarto_website",
+    "section": "(Section 1 Cat)",
+    "text": "(Section 1 Cat)\n The cat (Felis catus) is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family. Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.1"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "simple_quarto_website",
+    "section": "Section 2",
+    "text": "Section 2\n\n\n\nCat\n\n\nThe scientific name Felis catus was proposed by Carl Linnaeus in 1758 for a domestic cat. Felis catus domesticus was proposed by Johann Christian Polycarp Erxleben in 1777. Felis daemon proposed by Konstantin Satunin in 1904 was a black cat from the Transcaucasus, later identified as a domestic cat. (see Driscoll?, Carlos A., et al. “The taming of the cat.” Scientific American 300.6 (2009): 68.)\n\nIn 2003, the International Commission on Zoological Nomenclature ruled that the domestic cat is a distinct species, namely Felis catus. In 2007, it was considered a subspecies, F. silvestris catus, of the European wildcat (F. silvestris) following results of phylogenetic research. In 2017, the IUCN Cat Classification Taskforce followed the recommendation of the ICZN in regarding the domestic cat as a distinct species, Felis catus."
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "simple_quarto_website",
+    "section": "Section 3",
+    "text": "Section 3\n\n\n\nSize\nThe domestic cat has a smaller skull and shorter bones than the European wildcat. It averages about 46 cm (18 in) in head-to-body length and 23–25 cm (9–10 in) in height, with about 30 cm (12 in) long tails. Males are larger than females. Adult domestic cats typically weigh between 4 and 5 kg (9 and 11 lb)\n\n\n\nSkeleton\nCats have seven cervical vertebrae (as do most mammals); 13 thoracic vertebrae (humans have 12); seven lumbar vertebrae (humans have five); three sacral vertebrae (as do most mammals, but humans have five); and a variable number of caudal vertebrae in the tail (humans have only three to five vestigial caudal vertebrae, fused into an internal coccyx).\n\n\n\n\n\n\n\nflowchart LR\n  A[Get a new Cat] --&gt; B(do health examination)\n  B --&gt; C{Go shoping}\n  C --&gt; D[Cat food]\n  C --&gt; E[Cat Teaser]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDriscoll, C. A.; Clutton-Brock, J.; Kitchener, A. C. & O’Brien, S. J. (2009). “The taming of the cat”. Scientific American. 300 (6): 68–75. Bibcode:2009SciAm.300f..68D. doi:10.1038/scientificamerican0609-68. PMC 5790555. PMID 19485091.↩︎"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "simple_quarto_website",
+    "section": "Section 1",
+    "text": "Section 1\n The cat (Felis catus) is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family. Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.1"
+  },
+  {
+    "objectID": "index.html#section-1-introduction",
+    "href": "index.html#section-1-introduction",
+    "title": "simple_quarto_website",
+    "section": "Section 1 Introduction",
+    "text": "Section 1 Introduction\n\n\n\nCat\n\n\nThe cat (Felis catus) is a domestic species of small carnivorous mammal. It is the only domesticated species in the family Felidae and is commonly referred to as the domestic cat or house cat to distinguish it from the wild members of the family. Cats are commonly kept as house pets but can also be farm cats or feral cats; the feral cat ranges freely and avoids human contact. Domestic cats are valued by humans for companionship and their ability to kill vermin. About 60 cat breeds are recognized by various cat registries.1\n\nDomain: Eukaryota\nKingdom: Animalia\nPhylum: Chordata\nClass: Mammalia\nOrder: Carnivora\nSuborder: Feliformia\nFamily: Felidae\nSubfamily: Felinae\nGenus: Felis"
+  },
+  {
+    "objectID": "index.html#section-2-origin-of-name",
+    "href": "index.html#section-2-origin-of-name",
+    "title": "simple_quarto_website",
+    "section": "Section 2 Origin of Name",
+    "text": "Section 2 Origin of Name\n\n\n\nCat\n\n\nThe scientific name Felis catus was proposed by Carl Linnaeus in 1758 for a domestic cat. Felis catus domesticus was proposed by Johann Christian Polycarp Erxleben in 1777. Felis daemon proposed by Konstantin Satunin in 1904 was a black cat from the Transcaucasus, later identified as a domestic cat. (see Driscoll?, Carlos A., et al. “The taming of the cat.” Scientific American 300.6 (2009): 68.)\n\nIn 2003, the International Commission on Zoological Nomenclature ruled that the domestic cat is a distinct species, namely Felis catus. In 2007, it was considered a subspecies, F. silvestris catus, of the European wildcat (F. silvestris) following results of phylogenetic research. In 2017, the IUCN Cat Classification Taskforce followed the recommendation of the ICZN in regarding the domestic cat as a distinct species, Felis catus."
+  },
+  {
+    "objectID": "index.html#section-3-feature",
+    "href": "index.html#section-3-feature",
+    "title": "simple_quarto_website",
+    "section": "Section 3 Feature",
+    "text": "Section 3 Feature\n\n\n\nSize\nThe domestic cat has a smaller skull and shorter bones than the European wildcat. It averages about 46 cm (18 in) in head-to-body length and 23–25 cm (9–10 in) in height, with about 30 cm (12 in) long tails. Males are larger than females. Adult domestic cats typically weigh between 4 and 5 kg (9 and 11 lb)\n\n\n\nSkeleton\nCats have seven cervical vertebrae (as do most mammals); 13 thoracic vertebrae (humans have 12); seven lumbar vertebrae (humans have five); three sacral vertebrae (as do most mammals, but humans have five); and a variable number of caudal vertebrae in the tail (humans have only three to five vestigial caudal vertebrae, fused into an internal coccyx).\n\n\n\n\n\n\n\nflowchart LR\n  A[Get a new Cat] --&gt; B(do health examination)\n  B --&gt; C{Go shoping}\n  C --&gt; D[Cat food]\n  C --&gt; E[Cat Teaser]"
+  },
+  {
+    "objectID": "index.html#one-time-expenses",
+    "href": "index.html#one-time-expenses",
+    "title": "simple_quarto_website",
+    "section": "One-time Expenses",
+    "text": "One-time Expenses\n\n\n\nSex\nDeworming\nVaccine\nSterilization\nSundries\n\n\n\n\nM\n250\n150\n300\n500\n\n\nF\n250\n150\n500\n600\n\n\n\nInlined Equation: \\(f=x + 1\\)\nnon inlined: \\[ x = \\sum_{i=1}^{10} i^2\\]\n\nThis is a quote."
+  },
+  {
+    "objectID": "index.html#one-time-expenses-in-rmb",
+    "href": "index.html#one-time-expenses-in-rmb",
+    "title": "simple_quarto_website",
+    "section": "One-time Expenses in RMB",
+    "text": "One-time Expenses in RMB\n\n\n\nSex\nDeworming\nVaccine\nSterilization\nSundries\n\n\n\n\nM\n250\n150\n300\n500\n\n\nF\n250\n150\n500\n600\n\n\n\n\nSundries include cat bag, cat bowl, litter box, cat carrier, nearly \\(60+20+80+300=\\)¥\\(460\\) minimum cost.\n\nMonthly expenses list\n\nCat food: About 2.5 kg per month, a total of 130 RMB/month.\nCat litter: about 2 bags per month, buy more concessions, a total of 25 RMB/month.\nDeworming drug: once every three months, the cost is about 150 RMB, which is 50 RMB/month every month.\nStaple food canned food/cat strips/shrimp/chicken breast: eat once a week/two weeks, about 10-20 RMB a time, a total of 50 RMB/month.\nCat stick/mouse toy: buy once every two months, spread down 15 RMB/month.\n\nVaccine: 150 RMB per year, spread to 13 RMB per month.\nBath: once a year, 60 RMB a time, spread to every month is 10 RMB/month.\n\nTotal Cost: \\[ 130 + 25 + 50 + 50 + 15 + 13 + 10 = 293 \\]\n\nThat’s the situation if the cat doesn’t get sick. If it is sick, there will be additional expenses. But if it is not a serious illness, such as ear mites, skin diseases, or minor problems, each cost is within 200 RMB."
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Habits",
+    "section": "",
+    "text": "Turn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#getting-up",
+    "href": "slides/slides.html#getting-up",
+    "title": "Habits",
+    "section": "",
+    "text": "Turn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/slides.html#eat-breakfast",
+    "href": "slides/slides.html#eat-breakfast",
+    "title": "Habits",
+    "section": "Eat Breakfast",
+    "text": "Eat Breakfast\n\nBread and Milk\nUsually finish within 10 min"
+  },
+  {
+    "objectID": "slides/slides.html#eat-dinner",
+    "href": "slides/slides.html#eat-dinner",
+    "title": "Habits",
+    "section": "Eat dinner",
+    "text": "Eat dinner\n\nObsessed with what to eat\nLooking Ipad when eating"
+  },
+  {
+    "objectID": "slides/slides.html#going-to-sleep",
+    "href": "slides/slides.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep(see Crowell-Davis, Curtis, and Knowles 2004, 19–28)"
+  },
+  {
+    "objectID": "slides/slides.html#code-block",
+    "href": "slides/slides.html#code-block",
+    "title": "Habits",
+    "section": "Code Block",
+    "text": "Code Block\nimport matplotlib.pyplot as plt\n\nplt.plot([1, 2, 3, 4], [1, 4, 9, 16])\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#image-2",
+    "href": "slides/slides.html#image-2",
+    "title": "Habits",
+    "section": "Image 2",
+    "text": "Image 2"
+  }
+]
